@@ -1,16 +1,16 @@
-# gallery_app
+# Photo Gallery App (Responsive Design & Functionality)
 
-A new Flutter project.
+## App ScreenShots:
+![1](https://github.com/MRIDULrk/Flutter_Project-Photo_Gallery_App/assets/100429674/68d44e70-2fbc-49ab-9ee7-86f1e0a9e46c)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/MRIDULrk/Flutter_Project-Photo_Gallery_App/assets/100429674/9ad7f93d-eb53-4991-bae4-0dcf9211fbe3)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![3](https://github.com/MRIDULrk/Flutter_Project-Photo_Gallery_App/assets/100429674/004bb761-6a12-4971-b1c1-2bd40d404653)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![4](https://github.com/MRIDULrk/Flutter_Project-Photo_Gallery_App/assets/100429674/548662b2-028d-4ed2-98f9-c30a88304af3)
+
+
+![5](https://github.com/MRIDULrk/Flutter_Project-Photo_Gallery_App/assets/100429674/b5651b2a-650c-4f4b-bfba-3a9eaa98c307)
